@@ -99,7 +99,7 @@ http://watchindia.net:8880/live/33253/72963/2104.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids Hindi
-
+https://aslive.club/altaf/kids/discokids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo
@@ -116,8 +116,14 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/dhoom.jpg" group-title="Music",DHOOM MUSIC
+https://aslive.club/altaf/music/dhoom/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/9xm.jpg" group-title="MUSIC",9xM
+https://aslive.club/altaf/music/9xm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://aslive.club/logo/9x.jpg" group-title="Music",9x Jalwa
+https://aslive.club/altaf/music/9x/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
