@@ -21,6 +21,10 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD
+http://103.81.104.118/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
 http://103.81.104.118/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="INDIAN BANGLA", Colors Bangla HD
 http://103.81.104.118/hls/colorsbangla.m3u8
@@ -28,10 +32,9 @@ http://103.81.104.118/hls/colorsbangla.m3u8
 http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="INDIAN BANGLA", Star Jalsha
 http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD
-http://103.81.104.118/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
-https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="INDIAN BANGLA", Star Jalsha HD
+http://103.81.104.118/hls/starjalsha.m3u8
+
 
 
 
@@ -112,6 +115,8 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
+http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
