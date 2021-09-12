@@ -16,8 +16,10 @@ http://137.59.155.77:8088/hls/02IndependentTv.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 https://cdn.nowhdtime.com.bd/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://103.205.133.48/hls/rtv.m3u8
+http://10.16.100.203:8082/bangla/rTV_local.m3u8
 
                                     
                                     ***** INDIAN BANGLA *****
@@ -36,10 +38,9 @@ https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
 http://103.81.104.118/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="INDIAN BANGLA",Sun Bangla
 http://103.81.104.118/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="INDIAN BANGLA", Star Jalsha
-http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="INDIAN BANGLA", Star Jalsha HD
 http://103.81.104.118/hls/starjalsha.m3u8
+
 
 
                                       ***** Hindi *****
@@ -107,6 +108,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD English
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
+
                                                    ***** Cartoon *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 
@@ -140,7 +142,7 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Music", Gaan Bangla
 http://103.205.133.48/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/dhoom.jpg" group-title="Music",DHOOM MUSIC
-https://aslive.club/altaf/music/dhoom/chunks.m3u8
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
 #EXTINF:-1 tvg-logo="https://aslive.club/logo/9xm.jpg" group-title="Music",9xM
 https://aslive.club/altaf/music/9xm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
