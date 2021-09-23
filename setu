@@ -10,24 +10,18 @@ http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
 http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 [1]
 http://10.16.100.205:8082/bangla/Chanel24_local_bD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV [1]
-http://103.81.104.118/hls/indepen.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
+http://103.205.133.48/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD [1]
 http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I [1]
-http://10.16.100.203:8082/bangla/chenel_I.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV [1]
-http://103.81.104.118/hls/boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD [1]
 http://103.81.104.118/hls/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV [1]
 http://10.16.100.201:8082/bangla/jaMuna_tv_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangla", Mytv[1]
 http://10.16.100.205:8082/bangla/mYTv_local_bd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangla", NTV [1]
-http://103.81.104.118/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://10.16.100.203:8082/bangla/rTV_local.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
+http://103.205.133.18/hls/deshtv.m3u8
 
 
                                     
@@ -63,9 +57,9 @@ http://103.81.104.118/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://103.81.104.118/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
-http://103.81.104.118/hls/stargold.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
+http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://103.81.104.118/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD (2)
