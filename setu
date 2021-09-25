@@ -50,8 +50,6 @@ http://103.81.104.118/hls/starjalsha.m3u8
 
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Hindi",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures
-http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
 http://103.205.133.18/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
@@ -62,10 +60,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://103.153.39.34:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-http://103.81.104.118/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD (2)
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Hindi",B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi",B4U movies (576p) [Not 24/7]
@@ -112,22 +106,23 @@ http://watchindia.net:8880/live/33253/72963/2103.m3u8
 http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="English Movies",MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English",STIRR Star Movies (720p)
+#EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STIRR Star Movies (720p)
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English",HBO Family East (1080p)
+#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English Movies",HBO Family East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English",HBO Hits (1080p)
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English Movies",HBO Hits (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="English",HBO Malaysia (720p)
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="English Movies",HBO Malaysia (720p)
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="English",HBO Signature East (1080p)
+#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="English Movies",HBO Signature East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="English",Travel XP (720p)
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
 
                                                 
                                                 *****  Documentary  *****
 
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentary",Travel XP (720p)
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD Bangla
 http://watchindia.net:8880/live/33253/72963/792.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD Bangla
