@@ -231,10 +231,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56e
 https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="RevandRoll.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JiBv7NI.jpg" group-title="KIDS-English",Rev and Roll (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Supertoons.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iVeuci8.jpg" group-title="KIDS-English",Supertoons (720p)
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="KIDS-English",Zoo Moo (720p)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Supertoons.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iVeuci8.jpg" group-title="KIDS-English",Supertoons (720p)
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
