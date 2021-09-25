@@ -33,16 +33,22 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla HD
 http://103.81.104.118/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD
-http://103.81.104.118/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
-https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="INDIAN BANGLA", Colors Bangla HD
-http://103.81.104.118/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="INDIAN BANGLA",Sun Bangla
-http://103.81.104.118/hls/sunbangla.m3u8
+http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="INDIAN BANGLA", Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla HD
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="INDIAN BANGLA", Star Jalsha HD
-http://103.81.104.118/hls/starjalsha.m3u8
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="INDIAN BANGLA",Sony Aath
+http://103.205.133.18/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="INDIAN BANGLA", Sun Bangla
+http://193.161.193.99:49103/szs/suriya/sun.php?c=75117
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
+http://starnaya.com:8080/66PxjGmXUfFx/eRABXtZZKE/20589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD
+http://starnaya.com:8080/66PxjGmXUfFx/eRABXtZZKE/12538
 
 
 
@@ -123,15 +129,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentary",Travel XP (720p)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD Bangla
-http://watchindia.net:8880/live/33253/72963/792.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD Bangla
-http://103.81.104.118/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Bangla
-http://103.81.104.118/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD Bangla
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD Global" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD Global
 http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 
