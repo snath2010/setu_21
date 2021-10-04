@@ -253,5 +253,61 @@ https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NewKMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="English-Sub",New K-Movies (720p)
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
-***Local Server***
+
+                                  ***Local Server***
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Local Server", Banglavision HD 
+http://10.16.100.213:8080/hls/banglavision.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Local Server",BOISHAKHI 
+http://10.16.100.213:8080/hls/boishakhi.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Local Server",Rtv
+http://10.16.100.213:8080/hls/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Local Server", Deepto TV
+http://10.16.100.213:8080/hls/deeptotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Local Server", Ekusey TV
+http://10.16.100.213:8080/hls/ekushey.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Local Server", ATN Bangla
+http://10.16.100.213:8080/hls/atnbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Local Server", Bijoy TV
+http://10.16.100.213:8080/hls/bijoy.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Local Server",Jamuna TV
+http://10.16.100.213:8080/hls/Jamuna.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Local Server",My TV
+http://10.16.100.213:8080/hls/mytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Local Server",NTV
+http://10.16.100.213:8080/hls/ntv.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Local Server",Nagorik TV
+http://10.16.100.213:8080/hls/Nagorik.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Local Server",Shomoy TV
+http://10.16.100.213:8080/hls/somoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Local Server", Channel 24 HD
+http://10.16.100.213:8080/hls/channel24.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Local Server",News 24
+http://10.16.100.213:8080/hls/news24.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Local Server",Anando TV
+http://10.16.100.213:8080/hls/ananda.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Local Server",Gaan Bangla HD
+http://10.16.100.213:8080/hls/gaanbangla.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV HD
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+
 
