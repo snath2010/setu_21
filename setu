@@ -44,6 +44,10 @@ http://tvflixtn.ddns.net/hls/zeebanglahd.m3u8
 http://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="INDIAN BANGLA", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="57.News 18 Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="INDIAN BANGLA",57.News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="INDIAN BANGLA",DD Bangla
+https://snehz5tvnew.herokuapp.com?c=0-9-ddbangla 
 
 
 
@@ -55,12 +59,10 @@ http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
 http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
-http://103.81.104.118/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi",Sony Max 2
+http://watchindia.net:8880/live/54739/54739/2024.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Hindi",B4U Kadak (576p)
@@ -75,40 +77,17 @@ https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Cinema UK (576p)
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/SUWblss.png" group-title="Hindi",Zing (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+
 
 
                             ***** English Movies *****
 
-#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD Global" tvg-logo="" group-title="English Movies",Colors Infinity HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English Movies",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movies",HBO 1
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English Movies",Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English Movies", Star Movies Select HD
-http://jupiter.bdcabletv.com/ENC-17/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" group-title="English Movies",Star Movies Select HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Movies",Star Movies HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Star World HD Global" tvg-logo="" group-title="English Movies",Star World HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD Global" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Movies",Sony Pix HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English Movies", Sony Pix HD
-http://103.81.104.118/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&Prive HD Global" tvg-logo="" group-title="English Movies",&Prive HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English Movies", & Prive HD
-http://watchindia.net:8880/live/33253/72963/2103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&flix HD Global" tvg-logo="" group-title="English Movies",&flix HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="English Movies",MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+
 #EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STIRR Star Movies (720p)
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English Movies",HBO Family East (1080p)
@@ -119,6 +98,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="English Movies",HBO Signature East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/YIRC9m5.png" group-title="English Movies",Zee Cafe (720p)
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="English Movies",Demand Africa (720p)
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="English Movies",FilmStreams (720p)
+https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 
                                                 
@@ -126,14 +111,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentary",Travel XP (720p)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Bangla", Travel XP HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD Bangla
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English", Discovery HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD Bangla
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English", National Geographic HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Bangla
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD Global" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
@@ -236,25 +219,55 @@ https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="KIDS-English",Zoo Moo (720p)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Supertoons.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iVeuci8.jpg" group-title="KIDS-English",Supertoons (720p)
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
+        ****ZEE5 LIVE***
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bangla
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bangla Cinema
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zing
+https://snehz5tvnew.herokuapp.com?c=0-9-zing
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&TV HD
+https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol
+https://snehz5tvnew.herokuapp.com?c=0-9-zeeanmol 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinema HD
+https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&Pictures HD
+https://snehz5tvnew.herokuapp.com?c=0-9-tvpictureshd 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol Cinema
+https://snehz5tvnew.herokuapp.com?c=0-9-zeeanmolcinema 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bollywood
+https://snehz5tvnew.herokuapp.com?c=0-9-zeeclassic 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinema
+https://snehz5tvnew.herokuapp.com?c=0-9-zeecinema 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&Pictures
+https://snehz5tvnew.herokuapp.com?c=0-9-pictures 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Action
+https://snehz5tvnew.herokuapp.com?c=0-9-zeeaction 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&xplorHD
+https://snehz5tvnew.herokuapp.com?c=0-9-209 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Biskope
+https://snehz5tvnew.herokuapp.com?c=0-9-216 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&flix
+https://snehz5tvnew.herokuapp.com?c=0-9-channel_2105335046 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jalwa
+https://snehz5tvnew.herokuapp.com?c=0-9-133 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9XM
+https://snehz5tvnew.herokuapp.com?c=0-9-131 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jhakaas
+https://snehz5tvnew.herokuapp.com?c=0-9-134 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Tashan
+https://snehz5tvnew.herokuapp.com?c=0-9-132 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Krishna Vani
+https://snehz5tvnew.herokuapp.com?c=0-9-166 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Hare Krsna
+https://snehz5tvnew.herokuapp.com?c=0-9-183 
 
 
-
-
-
-***English-Sub***
-
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/YIRC9m5.png" group-title="English-Sub",Zee Cafe (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="DemandAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="English-Sub",Demand Africa (720p)
-https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="English-Sub",FilmStreams (720p)
-https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="NewKMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dHVfGex.png" group-title="English-Sub",New K-Movies (720p)
-https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
                                   ***Local Server***
