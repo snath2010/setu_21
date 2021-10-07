@@ -46,7 +46,7 @@ http://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v4a1/mono.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125" group-title="INDIAN BANGLA",Zee Bangla
 https://tvstream.space/jtv/xtrmmx.php?c=Zee_Bangla&=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colours Bangla" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png" group-title="B INDIAN",Colours Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Colours Bangla" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png" group-title="INDIAN BANGLA",Colours Bangla
 https://tvstream.space/jtv/xtrmmx.php?c=Colors_Bengali_HD&=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg" group-title="INDIAN BANGLA",Sony Aath
 https://tvstream.space/jtv/xtrmmx.php?c=Sony_aath&q=800&e=.m3u8
@@ -64,9 +64,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
 http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Hindi",Sony Max 2
 http://watchindia.net:8880/live/54739/54739/2024.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
@@ -136,7 +136,7 @@ https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
                          
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="English",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="News",Fox News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="English",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@amarnettv.live
 
 
