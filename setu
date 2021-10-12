@@ -332,4 +332,24 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
+**** update-12-10-21***
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla [5]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55319
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="INDIAN BANGLA", Colors Bangla HD [3]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55299
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM_400x400.jpeg" group-title="INDIAN BANGLA",DD Bangla
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55256
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA",Star Jalsha [3]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55252
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD [3]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1943
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold [3]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1897
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD [3]
+http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1896
