@@ -2,7 +2,7 @@
 
                             ***** Bangladeshi Bangla *****
 
-#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
+#EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="Bangla",BTV National
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://rhridoy136.shortcm.li/channeli.m3u8
@@ -28,16 +28,12 @@ https://rhridoy136.shortcm.li/atnnews.m3u8
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangla",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV HD
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV Online (Youtube)
-https://www.youtube.com/watch?v=q6m9zBRFLEA
 
                                     
                                     ***** INDIAN BANGLA *****
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla HD
-http://173.199.120.51/hls/zeebanglahd.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="INDIAN BANGLA", Zee Bangla HD 3
+https://snehz5tv.herokuapp.com?c=0-9-zeebangla
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="INDIAN BANGLA", Zee Bangla
 http://tvflixtn.ddns.net/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema HD
@@ -46,6 +42,8 @@ http://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v4a1/mono.m3u8
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125" group-title="INDIAN BANGLA",Zee Bangla
 https://tvstream.space/jtv/xtrmmx.php?c=Zee_Bangla&=1200&e=.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/wdSDF2V.png" group-title="INDIAN BANGLA",Colors Bangla (720p)
+https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colours Bangla" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png" group-title="INDIAN BANGLA",Colours Bangla
 https://tvstream.space/jtv/xtrmmx.php?c=Colors_Bengali_HD&=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg" group-title="INDIAN BANGLA",Sony Aath
@@ -186,18 +184,30 @@ https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
                                                     ***** Sports *****
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", Sky Sports Cricket FHD Global
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports", Sky Sports Football
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1 tvg- group-title="Sports",GTV [1]
+http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", GTV 2
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 0
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports 5
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="T Sports [1]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports [1]
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports 2" tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="Sports",T Sports [2]
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sports TV (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
 
 
                   ****** KIDS-English**** International servier
