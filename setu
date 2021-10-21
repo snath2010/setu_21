@@ -30,33 +30,41 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 
                                     
-                                    ***** INDIAN BANGLA *****
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="INDIAN BANGLA", Zee Bangla HD 3
+                                    #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="INDIAN BANGLA", Zee Bangla HD 3
 https://snehz5tv.herokuapp.com?c=0-9-zeebangla
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="INDIAN BANGLA", Zee Bangla
-http://tvflixtn.ddns.net/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema HD
-http://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v4a1/mono.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/974.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA",Star Jalsha [2]
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/898.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2ehtpitw6c7w.cloudfront.net/sun_bangla_logo.png" group-title="INDIAN BANGLA",Sun Bangla
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2581.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/wdSDF2V.png" group-title="INDIAN BANGLA",Colors Bangla
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1148.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="INDIAN BANGLA", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest?cb=20210509180125" group-title="INDIAN BANGLA",Zee Bangla
-https://tvstream.space/jtv/xtrmmx.php?c=Zee_Bangla&=1200&e=.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/wdSDF2V.png" group-title="INDIAN BANGLA",Colors Bangla (720p)
-https://yuppcatchup.akamaized.net/preview/etvbengali/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colours Bangla" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07185839/ColorsBanglaLogo.png" group-title="INDIAN BANGLA",Colours Bangla
-https://tvstream.space/jtv/xtrmmx.php?c=Colors_Bengali_HD&=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="INDIAN BANGLA", Akash Arth
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1522.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD [2]
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/570.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="INDIAN BANGLA", Zee Bangla Cinema HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1150.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg" group-title="INDIAN BANGLA",Sony Aath
-https://tvstream.space/jtv/xtrmmx.php?c=Sony_aath&q=800&e=.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
 
 #EXTINF:-1 tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="INDIAN BANGLA",News 18 Bangla-2
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1442.m3u8
+
 #EXTINF:-1 tvg-language="Bengali"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="INDIAN BANGLA",ABP Ananda-3
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
-
-
-
-
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1426.m3u8
 
 
                                       ***** Hindi *****
@@ -71,6 +79,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",Sony Max 2
 http://watchindia.net:8880/live/54739/54739/2024.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Hindi",B4U Kadak (576p)
@@ -164,6 +174,8 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 2 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 3
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/529.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV SK
 http://103.81.104.118/hls/duronto.m3u8
 #EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Cartoon",HappyKids Junior (720p)
@@ -183,6 +195,11 @@ https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
 
                                                     ***** Sports *****
+#EXTINF:-1 tvg- group-title="Sports",GTV [6]
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
+
+#EXTINF:-1 tvg- group-title="Sports",GTV [7]
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
 
 #EXTINF:-1 tvg- group-title="Sports",GTV [1]
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
@@ -347,41 +364,5 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
-**** update-12-10-21***
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="INDIAN BANGLA", Zee Bangla [5]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55319
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="INDIAN BANGLA", Colors Bangla HD [3]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55299
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/521344904044101632/rDRAPIOM_400x400.jpeg" group-title="INDIAN BANGLA",DD Bangla
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55256
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA",Star Jalsha [3]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55252
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="INDIAN BANGLA", Jalsha Movies HD [3]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1943
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold [3]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1897
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD [3]
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1896
-
-***test***
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Test",Channel 24
-https://bn.biswastv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/ekattor/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", Zee Bangla 8
-https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/zeebangla/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", Willow 9
-https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/willow/chunks.m3u8?nimblesessionid=35068
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test ", Rupbangla 3
-https://catchup.yuppcdn.net/amazonv2/20/preview/rupashibangala/master/master.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
-
-#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", sonymax 6
-https://bn.biswastv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/sonymax/chunks.m3u8?nimblesessionid=2199741
