@@ -368,3 +368,20 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1897
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD [3]
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1896
+
+***test***
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Test",Channel 24
+https://bn.biswastv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/ekattor/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", Zee Bangla 8
+https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/zeebangla/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", Willow 9
+https://tv.bdiptv.stream:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/willow/chunks.m3u8?nimblesessionid=35068
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test ", Rupbangla 3
+https://catchup.yuppcdn.net/amazonv2/20/preview/rupashibangala/master/master.m3u8?hdnts=st=1612630459~exp=1612631059~acl=!*/20/preview/rupashibangala/*!/payload/yuppTVCom_61_-1_d8ba0603680e4389_BD_103
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png" group-title="Test", sonymax 6
+https://bn.biswastv.xyz:2096/BwS0f3yWUOxt5z5dackIfzl5vd9QuedJW5VcjWFGQyB0xDJOb2AcpbET2/sonymax/chunks.m3u8?nimblesessionid=2199741
