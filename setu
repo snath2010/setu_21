@@ -53,9 +53,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
 
@@ -65,17 +62,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1993.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
-http://89.187.185.89:3232/ban-duronto/index.m3u8
-
 
                
                ****INDIAN BANGLA*****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [1]
-https://snehz5tv.herokuapp.com?c=0-9-zeebangla
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [2]
 https://snehz5tv.herokuapp.com?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
@@ -137,12 +128,12 @@ https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Cinema UK (576p)
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="All", SONY HD
+#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="Hindi", SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
                           ***** Music *****
 
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://meghnatv.com/source/TV/gaan_bangla_tv_bd.png" group-title="Bangla",Gaan Bangla
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Music", GAAN BANGLA HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wk/index.m3u8
@@ -239,29 +230,32 @@ https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
 
                                                     ***** Sports *****
-#EXTINF:-1 tvg- group-title="Sports",GTV [6]
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
-
-#EXTINF:-1 tvg- group-title="Sports",GTV [7]
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
+#EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
+http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 
 #EXTINF:-1 tvg- group-title="Sports",GTV [1]
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports", GTV 2
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg- group-title="Sports",GTV [2]
+http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
+
+#EXTINF:-1 tvg- group-title="Sports",GTV Locl [3]
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 0
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports 5
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports locl [1]
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="T Sports [1]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports [1]
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [2]
+http://10.16.100.245/hindi/T_Sports.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports 2" tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="Sports",T Sports [2]
-http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [3]
+http://10.16.100.213:8080/hls/tsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [4]
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sports TV (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
@@ -269,8 +263,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
-#EXTINF:-1 tvg- group-title="Sports",GTV [10]
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 
 
@@ -351,65 +343,5 @@ https://snehz5tvnew.herokuapp.com?c=0-9-132
 https://snehz5tvnew.herokuapp.com?c=0-9-166 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Hare Krsna
 https://snehz5tvnew.herokuapp.com?c=0-9-183 
-
-
-
-
-                                  ***Local Server***
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Local Server", Banglavision HD 
-http://10.16.100.213:8080/hls/banglavision.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Local Server",BOISHAKHI 
-http://10.16.100.213:8080/hls/boishakhi.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Local Server",Rtv
-http://10.16.100.213:8080/hls/rtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Local Server", Deepto TV
-http://10.16.100.213:8080/hls/deeptotv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Local Server", Ekusey TV
-http://10.16.100.213:8080/hls/ekushey.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Local Server", ATN Bangla
-http://10.16.100.213:8080/hls/atnbangla.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Local Server", Bijoy TV
-http://10.16.100.213:8080/hls/bijoy.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Local Server",Jamuna TV
-http://10.16.100.213:8080/hls/Jamuna.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Local Server",My TV
-http://10.16.100.213:8080/hls/mytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Local Server",NTV
-http://10.16.100.213:8080/hls/ntv.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Local Server",Nagorik TV
-http://10.16.100.213:8080/hls/Nagorik.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Local Server",Shomoy TV
-http://10.16.100.213:8080/hls/somoytv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Local Server", Channel 24 HD
-http://10.16.100.213:8080/hls/channel24.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Local Server",News 24
-http://10.16.100.213:8080/hls/news24.m3u8
-
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Local Server",Anando TV
-http://10.16.100.213:8080/hls/ananda.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Local Server",Gaan Bangla HD
-http://10.16.100.213:8080/hls/gaanbangla.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV HD
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Local Server",GAZI TV
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
-
 
 
