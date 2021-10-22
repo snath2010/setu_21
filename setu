@@ -3,79 +3,77 @@
                             ***** Bangladeshi Bangla *****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla", DBC News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/535.m3u8
+https://rhridoy136.shortcm.li/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/741.m3u8
+https://rhridoy136.shortcm.li/news24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/535.m3u8
+https://rhridoy136.shortcm.li/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/683.m3u8
+https://rhridoy136.shortcm.li/independenttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla", ATN News
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/529.m3u8
+https://rhridoy136.shortcm.li/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2483.m3u8
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/530.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/534.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/539.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/540.m3u8
+http://173.199.120.51/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/541.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/532.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla", Desh TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/537.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/551.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/526.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/533.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GAZI TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla", SATV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/542.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/544.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla", Gaan Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/546.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1993.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2640.m3u8
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
 
                
                ****INDIAN BANGLA*****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [1]
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/974.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [2]
 https://snehz5tv.herokuapp.com?c=0-9-zeebangla
@@ -90,13 +88,13 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/570.m3u8
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/898.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1148.m3u8
+http://manastv.xyz/m3u8.php?c=Colors_Bengali_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2654.m3u8
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
+http://manastv.xyz/m3u8.php?c=Sony_aath&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1012.m3u8
@@ -139,11 +137,13 @@ https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Cinema UK (576p)
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="All", SONY HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
                           ***** Music *****
 
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="https://meghnatv.com/source/TV/gaan_bangla_tv_bd.png" group-title="Bangla",Gaan Bangla
-http://tv.univisionlive.net:25461/suma720/03979720/546
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
@@ -268,6 +268,9 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg- group-title="Sports",GTV [10]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 
 
