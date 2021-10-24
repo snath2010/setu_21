@@ -280,6 +280,9 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [5]
+http://223.29.212.14:8089/102/index.m3u8?token=72d622035208c60a4d712832bf5cc1a05bc3773d-af34bc84f1e4fd7c451a71afa2ac8dd1-1635082181-1635071381&remote=116.68.198.81
+
 
 
 
