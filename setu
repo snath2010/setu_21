@@ -67,19 +67,19 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1993.m3u8
                ****INDIAN BANGLA*****
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [1]
-https://snehz5tv.herokuapp.com?c=0-9-zeebangla
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [2]
 https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [3]
-http://103.81.104.118/hls/zeebanglahd.m3u8
+http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD [1]
 http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema 4K [2]
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/573.m3u8
+https://26gl.short.gy/ZeeBanglaCinema-by-DoraTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD [0]
 http://103.81.104.118/hls/jalshamovies.m3u8
@@ -93,8 +93,11 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/962.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [1]
 http://manastv.xyz/m3u8.php?c=Colors_Bengali_HD&q=800&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [2]
+http://212.102.60.40:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
@@ -108,11 +111,11 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1012.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Akash Arth
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1522.m3u8
 
-#EXTINF:-1 tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",News 18 Bangla-2
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1442.m3u8
+#EXTINF:-1 tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #EXTINF:-1 tvg-language="Bengali"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",ABP Ananda-3
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1426.m3u8
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
 
                                       ***** Hindi *****
@@ -120,13 +123,13 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1426.m3u8
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Hindi",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
-http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi",Sony Max 2
-http://watchindia.net:8880/live/54739/54739/2024.ts
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
@@ -148,6 +151,8 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
                           ***** Music *****
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Music",Rtv Music
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8?Live-TV™
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Music", GAAN BANGLA HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
