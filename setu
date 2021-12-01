@@ -90,90 +90,103 @@ http://103.81.104.118/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD [1]
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/570.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies 4k [2]
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/962.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [1]
-http://manastv.xyz/m3u8.php?c=Colors_Bengali_HD&q=800&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_Bangla_SD&q=250&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD [2]
-http://212.102.60.40:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath
-http://manastv.xyz/m3u8.php?c=Sony_aath&q=800&e=junk.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_aath&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1012.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Akash Arth
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1522.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Indian Bangla",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #EXTINF:-1 tvg-language="Bengali"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian Bangla",ABP Ananda-3
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529-b/abphindi/master.m3u8
 
 
                                       ***** Hindi *****
 
 #EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Hindi",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
-http://212.224.98.196:2200/R-EX/HINDI_AND_PICTURES_HD-in/index.m3u8?token=
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=And_Pictures_HD&q=250&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD 
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD [1] 
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_Max_HD&q=250&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD [2]
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Max_HD&q=1200&e=junk.m3u8
+
 #EXTINF:-1 group-title="Hindi",Sony Max 2
-http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
-http://103.153.39.34:8000/play/a06p/index.m3u8
+
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Hindi",B4U Kadak (576p)
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi",B4U movies (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wj/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/BvAXCNf.png" group-title="Hindi",Zee Action (576p)
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Anmol Cinema (576p)
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaMiddleEast.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Cinema Middle East (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Hindi",Zee Cinema UK (576p)
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="Hindi", SONY HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/187
+
+#EXTINF: -1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi", And Pictures HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi", Zee Cinema
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Hindi", Enterr 10
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Enterr_10&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi", Colors Cineplex HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
+
 
                           ***** Music *****
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Music",Rtv Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8?Live-TV™
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="Music", GAAN BANGLA HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuEsPDV.png" group-title="Music", 8XM 
-http://221.120.204.4/8XM-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Music", Zoo Music
-https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LZxPgLh.png" group-title="Music",B4U Music (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Music",9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
+
+
 
                           
                           ***** English Movies *****
@@ -218,11 +231,11 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD Bangla
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD Englsh
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&=600&e=.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Bangla (jio)
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary", Discovery HD Bangla hindi
-http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary", Discovery 
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild
@@ -234,22 +247,37 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 2 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 3
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV SK
-http://103.81.104.118/hls/duronto.m3u8
+
 #EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Cartoon",HappyKids Junior (720p)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
-http://103.81.104.118/hls/cn.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network Hindi (jio)
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay  (jio)
+http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Cartoon", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo (jio)
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids Hindi
 https://aslive.club/altaf/kids/discokids/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/POGO-logo.png" group-title="Cartoon",Pogo
-https://tvstream.space/jtv/xtrmmx.php?c=Pogo_Hindi&q=800&e=junk.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoon",Cartoon Network
 https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
@@ -326,50 +354,4 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-        ****ZEE5 LIVE***
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bangla
-https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bangla Cinema
-https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema 
-
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zing
-https://snehz5tvnew.herokuapp.com?c=0-9-zing
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&TV HD
-https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeanmol 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinema HD
-https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&Pictures HD
-https://snehz5tvnew.herokuapp.com?c=0-9-tvpictureshd 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Anmol Cinema
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeanmolcinema 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Bollywood
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeclassic 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Cinema
-https://snehz5tvnew.herokuapp.com?c=0-9-zeecinema 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&Pictures
-https://snehz5tvnew.herokuapp.com?c=0-9-pictures 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Action
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeaction 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&xplorHD
-https://snehz5tvnew.herokuapp.com?c=0-9-209 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Zee Biskope
-https://snehz5tvnew.herokuapp.com?c=0-9-216 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",&flix
-https://snehz5tvnew.herokuapp.com?c=0-9-channel_2105335046 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jalwa
-https://snehz5tvnew.herokuapp.com?c=0-9-133 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9XM
-https://snehz5tvnew.herokuapp.com?c=0-9-131 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Jhakaas
-https://snehz5tvnew.herokuapp.com?c=0-9-134 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",9X Tashan
-https://snehz5tvnew.herokuapp.com?c=0-9-132 
-
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Krishna Vani
-https://snehz5tvnew.herokuapp.com?c=0-9-166 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="SNEH ZEE5 LIVE",Hare Krsna
-https://snehz5tvnew.herokuapp.com?c=0-9-183 
-
-
+      
