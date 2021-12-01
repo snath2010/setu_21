@@ -186,20 +186,35 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
 
+#EXTINF: -1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Music", Jio Exclusive HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Jio_Exclusive&q=1200&e=junk.m3u8
+
 
 
                           
                           ***** English Movies *****
 
+#EXTINF: -1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="English", Comedy Central HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English", Colors Infinity HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Sneh Jio English Entertainment", Colors Infinity SD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_SD&q=1200&e=junk.m3u8
+
+#EXTINF: -1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sneh Jio English Entertainment", Sony Pix HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English",STIRR Star Movies (720p)
+https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO 1
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English",STIRR Star Movies (720p)
-https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English",HBO Family East (1080p)
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English",HBO Hits (1080p)
@@ -212,13 +227,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:-1 tvg-id="DemandAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="English",Demand Africa (720p)
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmStreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFbzgED.jpg" group-title="English",FilmStreams (720p)
-https://spi-filmstream-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
 
                  ***** English News *****
                          
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="English",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF: -1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English", CNN NEWS 18
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="English",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@amarnettv.live
 
@@ -281,6 +297,35 @@ http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoon",Cartoon Network
 https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
 
+
+
+#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Jio Kids", Nick Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Jio Kids", Pogo Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Jio Kids", Cartoon Network Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sneh Jio Kids", Sonic Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Jio Kids", Sony Yay Hindi
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Sneh Jio Kids", Nickelodeon
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Sneh Jio Kids", CN HD+ English
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Jio Kids", Discovery Kids 2
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sneh Jio Kids", Nick Junior
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Junior&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="Sneh Jio Kids", Testton
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Toonami&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Sneh Jio Kids", Nickelodeon Jr.
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Sneh Jio Kids", Highbrow
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Highbrow&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Sneh Jio Kids", Nick HD+
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Sneh Jio Kids", Jio KIDS
 
                                                     ***** Sports *****
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
@@ -354,4 +399,60 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
+
+#EXTINF: -1 tvg-id="672" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="Sneh Jio Bengali", ABP Ananda
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ABP_Ananda&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="625" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Sneh Jio Bengali", Zee Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Sneh Jio Bengali", Colors Bengali HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="464" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Sneh Jio Bengali", 24 Ghanta TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=24_Ghanta_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="740" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Sneh Jio Bengali", Sangeet Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sangeet_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="573" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Sneh Jio Bengali", Discovery Channel Bengali
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="690" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="Sneh Jio Bengali", DD Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=DD_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="697" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sneh Jio Bengali", Sony aath
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_aath&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="698" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Sneh Jio Bengali", Aakash Aath
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Aakaash_bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="685" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Sneh Jio Bengali", Zee Bangla Cinema
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1101" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="Sneh Jio Bengali", Amaar Cinema
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Amaar_Cinema&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="717" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="Sneh Jio Bengali", News18 Bangla News
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ETV_Bangla_News&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="687" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="Sneh Jio Bengali", News Time TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=News_Time_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="976" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Time.png" group-title="Sneh Jio Bengali", Bangla Time
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Bangla_Time&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="950" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png" group-title="Sneh Jio Bengali", R Plus
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=RPLUS&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1149" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_Aryan_News.png" group-title="Sneh Jio Bengali", Sadhna News TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sadhna_Aryan_News&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1341" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Sneh Jio Bengali", Nick Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1345" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Sneh Jio Bengali", Sonic Bangla
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Bangla&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1560" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" group-title="Sneh Jio Bengali", 35mm
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=35mm&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1708" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SKY_12.png" group-title="Sneh Jio Bengali", SKY 12
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=SKY_12&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Sneh Jio Bengali", Sristi TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sristi_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tripura_News.png" group-title="Sneh Jio Bengali", Headlines Tripura
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Tripura_News&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1261" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="Sneh Jio Bengali", Calcutta News
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Calcutta_News&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="Sneh Jio Bengali", Kolkata Live
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Kolkata_Live&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1264" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Sneh Jio Bengali", Kolkata TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Kolkata_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1282" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="Sneh Jio Bengali", Khushboo TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Khusboo_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1285" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Orange_TV.png" group-title="Sneh Jio Bengali", Orange TV
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Orange_TV&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="1494" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" group-title="Sneh Jio Bengali", BHOOMI 24x7
       
