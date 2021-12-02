@@ -78,17 +78,14 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [3]
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD [1]
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema [2]
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Bangla_Cinema&q=250&e=.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://j2apps.s.llnwi.net/pic/8005.Tollywood.in/en/1x1/208x208/test_pic1574771082050.jpg",Tolly wood
+https://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD [0]
 http://103.81.104.118/hls/jalshamovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla", Jalsha Movies HD [1]
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/570.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
@@ -156,12 +153,19 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_Pictures_HD&
 #EXTINF: -1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi", Zee Cinema
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema&q=1200&e=junk.m3u8
 
+#EXTINF: -1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi", Zee Cinema HD
+https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+
 #EXTINF: -1 tvg-id="485" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Hindi", Enterr 10
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Enterr_10&q=1200&e=junk.m3u8
 
 #EXTINF: -1 tvg-id="1477" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi", Colors Cineplex HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://1.bp.blogspot.com/-ziVNwOslYD0/YPlemqMOZgI/AAAAAAAAAiM/8PC2_UDcFEUKYSfIHDvjMYLbekg85HF0wCLcBGAsYHQ/s200/logo-animated-new.gif",SONY TV (IN)
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://1.bp.blogspot.com/-3xvP4LRQ4MA/YReoDvX0saI/AAAAAAAAA4Q/l7MF9wNHtT4-XmyVMH3SYdGMAKLTBW6VQCLcBGAsYHQ/s200/PicsArt_08-14-04.54.42.jpg",STAR PLUS (IN)
 
                           ***** Music *****
 
@@ -188,11 +192,24 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 
 #EXTINF: -1 tvg-id="866" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Music", Jio Exclusive HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Jio_Exclusive&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MkFsM39.png",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3mkjuTk.png",9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RCKpn0U.png",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/IEwWaEN.png",9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/IEwWaEN.png",9XM (2)
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
 
 
                           
                           ***** English Movies *****
+
+#EXTINF:-1 group-title="English" tvg-logo="https://j2apps.s.llnwi.net/pic/8020.LanguageCourseEnglish.in/en/1x1/208x208/test_pic1574772507867.jpg",Language Course English
+https://m-c09-j2apps.s.llnwi.net/hls/8020.LanguageCourseEnglish.in.m3u8
 
 #EXTINF: -1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="English", Comedy Central HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Comedy_Central_HD&q=1200&e=junk.m3u8
@@ -200,33 +217,30 @@ https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Comedy_Central_H
 #EXTINF: -1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English", Colors Infinity HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Sneh Jio English Entertainment", Colors Infinity SD
+#EXTINF: -1 tvg-id="1325" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="English", Colors Infinity SD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_SD&q=1200&e=junk.m3u8
 
-#EXTINF: -1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sneh Jio English Entertainment", Sony Pix HD
+#EXTINF: -1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English", Sony Pix HD
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pix_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
 #EXTINF:-1 tvg-id="STIRRStarMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English",STIRR Star Movies (720p)
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO 1
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English",HBO Family East (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English",HBO Hits (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="English",HBO Malaysia (720p)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="English",HBO Signature East (1080p)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/YIRC9m5.png" group-title="English",Zee Cafe (720p)
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="DemandAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="English",Demand Africa (720p)
-https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/0rFA2Cx.png",Star Movies HD (2)
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/rfjCQoz.png",Star World BDC
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/oWmEXpL.png",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://j2apps.s.llnwi.net/pic/8011.ShortFilmsTV.in/en/1x1/208x208/test_pic1574771939190.jpg",Short Films TV
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
+
 
 
                  ***** English News *****
@@ -235,17 +249,12 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF: -1 tvg-id="492" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English", CNN NEWS 18
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CNN_NEWS_18&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="https://i.imgur.com/pu2mgFa.jpg" group-title="English",Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@amarnettv.live
+
 
 
                                                 
                                                 *****  Documentary  *****
 
-#EXTINF:-1 tvg-id="TravelXP.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Documentary",Travel XP (720p)
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentary", Travel XP HD Bangla
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD Englsh
 http://jo123.biz/jweb/m3u8.php?c=Animal_Planet_Hindi&=600&e=.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Documentary",Discovery Bangla (jio)
@@ -254,121 +263,77 @@ http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&=600&e=.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Discovery_HD_World&=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary", Discovery 
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60345
 
 
 
-                                                   ***** Cartoon *****
+                                                   ***** "Kids" *****
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 2 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Cartoon", Duronto TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 3
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 
-#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Cartoon",HappyKids Junior (720p)
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://j2apps.s.llnwi.net/pic/8027.RongeenTV.in/en/1x1/208x208/test_pic1605964151002.jpg",Rongeen TV
+https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Cartoon",Cartoon Network Hindi (jio)
-http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Cartoon", Sony Yay  (jio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay  (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Cartoon", Spacetoon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Cartoon", Pogo (jio)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids", Pogo (jio)
 http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",Disney Channel
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg",Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg",Kochu TV
+http://139.59.55.243/sunnxt/live.php?c=26573&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",Chutti TV
+http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Cartoon", Discovery Kids Hindi
-https://aslive.club/altaf/kids/discokids/chunks.m3u8
+*** Jio Kids ***
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Cartoon", Sonic Nickeloden
-http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoon",Cartoon Network
-https://tvstream.space/jtv/xtrmmx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
-
-
-
-#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Jio Kids", Nick Hindi
+#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Jio Kids", Pogo Hindi
+#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Jio Kids", Cartoon Network Hindi
+#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sneh Jio Kids", Sonic Hindi
+#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Jio Kids", Sony Yay Hindi
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Yay_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="547" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Sneh Jio Kids", Nickelodeon
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Sneh Jio Kids", CN HD+ English
+#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi
+https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_Yay_Hindi&q=250&e=.m3u8
+
+#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids", CN HD+ English
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Jio Kids", Discovery Kids 2
+#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids 2
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sneh Jio Kids", Nick Junior
+#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Junior&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="551" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="Sneh Jio Kids", Testton
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Toonami&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Sneh Jio Kids", Nickelodeon Jr.
+
+#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids", Nickelodeon Jr.
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Sneh Jio Kids", Highbrow
+#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Highbrow&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Sneh Jio Kids", Nick HD+
+#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title=" Kids", Nick HD+
 https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Sneh Jio Kids", Jio KIDS
+#EXTINF: -1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids", Jio KIDS
+http://manastv.xyz/m3u8.php?c=Jio_KIDS&q=1200&e=junk.m3u8
 
-                                                    ***** Sports *****
-#EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
-http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-
-#EXTINF:-1 tvg- group-title="Sports",GTV [1]
-http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg- group-title="Sports",GTV [2]
-http://10.16.100.245/hindi/GaziTv_CMcl_TH.m3u8
-
-#EXTINF:-1 tvg- group-title="Sports",GTV Locl [3]
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 0
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports locl [1]
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [2]
-http://10.16.100.245/hindi/T_Sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [3]
-http://10.16.100.213:8080/hls/tsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [4]
-http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
-
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sports TV (1080p)
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [5]
-http://223.29.212.14:8089/102/index.m3u8?token=72d622035208c60a4d712832bf5cc1a05bc3773d-af34bc84f1e4fd7c451a71afa2ac8dd1-1635082181-1635071381&remote=116.68.198.81
-
-
-
-
+                                                    
+                                                   
                   ****** KIDS-English**** International servier
-                  
+                
+#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="KIDS-English",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="KIDS-English",3ABN Kids (720p)
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="KIDS-English",ABC Kids (720p) [Not 24/7]
@@ -397,6 +362,34 @@ https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="KIDS-English",Zoo Moo (720p)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+
+             
+             ***** Sports *****
+
+#EXTINF:-1 tvg- group-title="Sports",GTV Locl [3]
+http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD 0
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports locl [1]
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [2]
+http://10.16.100.245/hindi/T_Sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [3]
+http://10.16.100.213:8080/hls/tsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports HD [4]
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Sports",Oman Sports TV (1080p)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
 
 
 
