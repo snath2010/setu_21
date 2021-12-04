@@ -1,0 +1,13 @@
+#EXTM3U
+EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 2 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids", Duronto TV 3
+https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://j2apps.s.llnwi.net/pic/8027.RongeenTV.in/en/1x1/208x208/test_pic1605964151002.jpg",Rongeen TV
+https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
