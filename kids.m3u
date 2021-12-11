@@ -117,36 +117,7 @@ http://139.59.55.243/sunnxt/live.php?c=26573&e=.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",Chutti TV
 http://139.59.55.243/sunnxt/live.php?c=26567&e=.m3u8
 
-*** Jio Kids ***
 
-#EXTINF: -1 tvg-id="545" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="816" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=sonic_Hindi&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="872" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi
-https://snehjiotv.in1.bitmana.io/snehtv/snehjio/snehji0.php?c=Sony_Yay_Hindi&q=250&e=.m3u8
-
-#EXTINF: -1 tvg-id="1079" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Kids", CN HD+ English
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="554" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids 2
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Kids_2&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Junior&q=1200&e=junk.m3u8
-
-#EXTINF: -1 tvg-id="548" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Kids", Nickelodeon Jr.
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon_Jr&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1216" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Kids", Highbrow
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Highbrow&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title=" Kids", Nick HD+
-https://snehjiotv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
-#EXTINF: -1 tvg-id="1430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Kids", Jio KIDS
-http://manastv.xyz/m3u8.php?c=Jio_KIDS&q=1200&e=junk.m3u8
-
-                                                    
                                                    
                   ****** KIDS-English**** International servier
                 
@@ -178,44 +149,24 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="KIDS-English",Pluto TV Kids Animation (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.es" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="KIDS-English",Rakuten TV Family Movies UK (720p)
-https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RevandRoll.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JiBv7NI.jpg" group-title="KIDS-English",Rev and Roll (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="KIDS-English",Zoo Moo (720p)
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:1 ,ABC Kids (720p) [Not 24/7]  (English)
 https://c.mjh.nz/101002210222/
 
-#EXTINF:1 ,Ameba  (English)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
+
 
 #EXTINF:1 ,Battery Pop (XUMO)  (English)
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
-#EXTINF:1 ,BBC CBeebies (Poland)  (Polish;English)
-http://91.218.60.3:8001/play/a00p
-
-#EXTINF:1 ,BBC First (Poland)  (Polish;English)
-http://91.218.60.3:8001/play/a00r
-
-#EXTINF:1 ,Boomerang  (English)
-http://27.254.130.56:80/live01/ch18.m3u8
 
 #EXTINF:1 ,Brat TV (1080p)  (English)
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-
-#EXTINF:1 ,Cbeebies UK  (English)
-http://51.52.156.22:8888/http/003
 
 #EXTINF:1 ,Country Boy Kids Video (Bumblebee)  (English)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
@@ -225,9 +176,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 
 #EXTINF:1 ,FGTV (Bumblebee)  (English)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-
-#EXTINF:1 ,KPBS-DT4  (English)
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8
 
 
 #EXTINF:1 ,Lego Channel (1080p)  (English)
@@ -248,11 +196,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/
 #EXTINF:1 ,Master Builder (Bumblebee)  (English)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 
-#EXTINF:1 ,Shemaroo Kids  (Hindi)
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-
-#EXTINF:1 ,SKWAD (720p)  (English)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71&live=1&app_bundle=com.plexapp.desktop
 
 #EXTINF:1 ,ST-TV | IGN TV (720p)  (English)
 https://ign-sportstribal.amagi.tv/playlist.m3u8
@@ -260,17 +203,6 @@ https://ign-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:1 ,Super Toons TV (720p)  ()
 https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:1 ,Tankee  (English)
-https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
-
-#EXTINF:1 ,Tankee (720p)  (English)
-https://playworksdigital-tankee-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:1 ,TCT Kids  (English)
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-
-#EXTINF:1 ,Toon Goggles (720p)  (English)
-https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:1 ,TVS Hi Tops (490p)  (English)
 https://rpn1.bozztv.com/36bay2/gusa-hitops/mono.m3u8
@@ -278,21 +210,10 @@ https://rpn1.bozztv.com/36bay2/gusa-hitops/mono.m3u8
 #EXTINF:1 ,TVS Pinball Network (1080p)  (English)
 https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
 
-#EXTINF:1 ,Zoo Moo (720p)  (English)
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1  group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="Boomerang.png",Boomerang
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
-http://hls01-09.az.myvideo.az/hls-live/livepkgr/cartoon/cartoon/cartoon.m3u8?simpletvipadresleri
-#EXTINF:-1 tvg-logo="CartoonNetwork.png",Cartoon Network
-http://113.160.49.34/lives/origin03/cartoonsd.isml/cartoonsd.m3u8 
-#EXTINF:-1 tvg-logo="Nickelodeon.png",Nickelodeon
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_NICKELODEON/variant.m3u8
 #EXTINF:-1 ,СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 ,2x2 HD
