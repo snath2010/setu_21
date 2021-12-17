@@ -21,8 +21,14 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla", Banglavision HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQ7mqFk3MvcxBpVMNK6xkZiv54y965wiuQHh0WyX7V02e05NwGiwUTsPyrx5T3w3F88k&usqp=CAU" group-title="INDIAN BANGLA",ZEE BANGLA
+http://tv.motovision.life:25461/Sheikh/997588886/2527
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla [5]
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://208.86.19.21:80/908.stream/index.m3u8
@@ -30,14 +36,32 @@ http://208.86.19.21:80/908.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema [2]
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://mpng.subpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg" group-title="INDIAN BANGLA",JALSHA MOVIES HD
+http://tv.motovision.life:25461/Sheikh/997588886/1563
+
+#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://www.adgully.com/img/800/201904/sangeet-bangla.jpg" group-title="INDIAN BANGLA",SANGEET BANGLA
+http://tv.motovision.life:25461/Sheikh/997588886/1636
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA",STAR JALSHA HD
+http://tv.motovision.life:25461/Sheikh/997588886/1562
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURES HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-picture-logo-300x300.jpg" group-title="HINDI INDIAN",&PICTURES HD
+http://tv.motovision.life:25461/Sheikh/997588886/1388
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max [1]
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg" , Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://103.131.212.138:8000/play/a00k/index.m3u8
@@ -70,6 +94,12 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/29027
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay  (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" , GUBBARE KIDS
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids 2
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Discovery_Kids_2&q=600&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
