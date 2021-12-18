@@ -92,6 +92,9 @@ https://m-c09-j2apps.s.llnwi.net/hls/8027.RongeenTV.in.m3u8
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/29027
 #EXTINF:-1 tvg-ID="nicktoons.ro" tvg-name="|RO| Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/1024px-Nicktoons_UK_Logo_2010.svg.png" group-title="EU | ROMANIA",|RO| Nicktoons
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" , Sony Yay
+https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Sony_Yay_Hindi&q=600&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids", Sony Yay  (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 
